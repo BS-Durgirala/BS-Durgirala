@@ -36,7 +36,7 @@
 ## 📂 Featured Projects
 
 🔹 **[Portfolio Website](https://bs-durgirala.github.io/my-portfolio/)**  
-A Canva-style interactive site showcasing projects, skills, and certifications.
+A site showcasing my projects, skills, and certifications.
 
 🔹 **[Job Market Trends (2025)](https://github.com/BS-Durgirala/my-portfolio/blob/main/notebooks/P1_Jobs_Market_Trends_2025.ipynb)**  
 Analyzed 60K+ job listings to extract top skills, job titles, remote trends & salaries using Python & Seaborn.
