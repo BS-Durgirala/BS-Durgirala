@@ -35,13 +35,15 @@
 
 ## 📂 Featured Projects
 
-🔹 **[Portfolio Website](https://bs-durgirala.github.io/portfolio-site/)**  
-A site showcasing my projects, skills, and certifications.
-
 🔹 **[Job Market Trends (2025)](https://github.com/BS-Durgirala/my-portfolio/blob/main/notebooks/P1_Jobs_Market_Trends_2025.ipynb)**  
 Analyzed 60K+ job listings to extract top skills, job titles, remote trends & salaries using Python & Seaborn.
 
-🔹 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/TTK696RH5FS6)**  
+
+ ---
+
+## 🏅 Certifications
+
+🔹 **[🏆 Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/TTK696RH5FS6)**  
 Completed 8-course certificate with case study project.
 
 ---
