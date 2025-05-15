@@ -43,7 +43,7 @@ Analyzed 60K+ job listings to extract top skills, job titles, remote trends & sa
 
 ## 🏅 Certifications
 
-🔹 **[🏆 Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/TTK696RH5FS6)**  
+🏆 **[Google Data Analytics Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/TTK696RH5FS6)**  
 Completed 8-course certificate with case study project.
 
 ---
