@@ -61,5 +61,5 @@ Completed 8-course certificate with case study project.
 <p align="center">
   <a href="mailto:bsmg2402@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/dbsudha/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="resume.pdf"><img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
+  <a href="Sudha resume.pdf"><img src="https://img.shields.io/badge/-Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" /></a>
 </p>
