@@ -12,7 +12,7 @@
 ## 🧠 About Me
 
 🎓 Master's in Data Analytics & Information Systems – Texas State University  
-💼 Ex-Accenture | Ex-Sutherland | Texas State University Graduate Assistant  
+💼 Ex-Accenture | Ex-Sutherland  
 🧩 I specialize in cleaning, analyzing, and visualizing data to extract clear business insights  
 🔍 Curious, detail-oriented, and committed to impactful storytelling through data
 
