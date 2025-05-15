@@ -18,18 +18,24 @@
 
 ---
 
-## 💻 Tools & Technologies
+## 💻 Skills & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GoogleBigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/DBT-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power Query-4472C4?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/VBA-00B140?style=flat-square&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" />
 </p>
-
-🛠 Other tools: Tableau, DBT, Power Query, Airflow, Spark, MongoDB, VBA, Notion
 
 ---
 
